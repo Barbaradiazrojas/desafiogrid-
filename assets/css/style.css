@@ -136,7 +136,8 @@ a {
 }
 
 /* Pie de página */
-.footer {
+footer {
   grid-area: footer;
   background-color: #f5f5f5;
   text-align: center;
+}
